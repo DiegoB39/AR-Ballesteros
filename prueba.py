@@ -6,4 +6,4 @@ taller_2 = "GitHub"
 divicion = 24//3
 multiplica = 2*2
 print("2*2 es =", multiplica, "y 24//3 es =", divicion)
-print("hola")
+print("hola :3")
